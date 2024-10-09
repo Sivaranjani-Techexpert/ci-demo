@@ -1,3 +1,4 @@
+#include "mytest.h"
 int main()
 {
   int a,b,c,d;
